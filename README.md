@@ -1,6 +1,6 @@
 # 
 <p align="center">
-DRK-RAGNA
+DRK-RAGNA-2.0.0
 </p>
 
 
@@ -17,8 +17,8 @@ DRK-RAGNA
 ---
 
 ## CREATE YOUR FORK
-<a href="https://github.com/Bot-hostin/DRK-RAGNA-1.0/fork">
-  <img title="𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨" src="https://img.shields.io/badge/FORK 𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨-red?color=red&style=for-the-badge&logo=stackshare">
+<a href="https://github.com/NEW-S-TEN/DRK-RAGNA-2.0.0/fork">
+  <img title="𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨" src="https://img.shields.io/badge/FORK 𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨²-red?color=red&style=for-the-badge&logo=stackshare">
 </a>
 
 ---
@@ -26,8 +26,8 @@ DRK-RAGNA
 ### 🔐 Generate Pair Code For Session
 
 #### PAIRING SERVER 
-<a href="https://drk-tech-2.onrender.com/#" target="_blank">
-  <img alt="Pairing Code Server " src="https://img.shields.io/badge/PAIRING CODE-green?style=for-the-badge&logo=opencv&logoColor=white"/>
+<a href="https://web-test-aq82.onrender.com//#" target="_blank">
+  <img alt="Pairing Code Server " src="https://img.shields.io/badge/PAIRING officiel-blue?style=for-the-badge&logo=opencv&logoColor=white"/>
 </a>
 
 ---
@@ -62,7 +62,7 @@ I am not responsible for any damage caused by this bot. Use this bot at your own
 
 ## Developer 💀
 
-<a href="https://github.com/DRK-S-TEN">
+<a href="https://github.com/Bot-hostin">
   <img src="https://github.com/Bot-hostin.png" width="200" height="200" alt="DRK-S-TEN"/>
 </a>
 <p align="center"><strong>DRK-S-TEN</strong></p>
@@ -71,10 +71,10 @@ I am not responsible for any damage caused by this bot. Use this bot at your own
 
 ## Contributors 🤝
 
-<a href="https://github.com/KangJinhuyk">
-  <img src="https://github.com/KangJinhuyk.png" width="200" height="200" alt="toge012345"/>
+<a href="https://github.com/NEW-S-TEN">
+  <img src="https://github.com/NEW-S-TEN.png" width="200" height="200" alt=NEW-S-TEN/>
 </a>
-<p align="center"><strong>SASAKI</strong
+<p align="center"><strong>𝐃𝐑𝐊- 𝙎-𝙏𝞢𝞜</strong
 
 ---
 
