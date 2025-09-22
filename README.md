@@ -77,7 +77,12 @@ I am not responsible for any damage caused by this bot. Use this bot at your own
 <p align="center"><strong>𝐃𝐑𝐊- 𝙎-𝙏𝞢𝞜</strong
 
 ---
+---
 
+## ⚠️ WARNING NEW VERSION ⚠️
+
+This is a new official version of Ragnar 1.0. It took me a long time to update this. I ask you to subscribe to my YouTube page and my WhatsApp channel.
+---     
 ## GitHub Deployment
 
 ```yaml
