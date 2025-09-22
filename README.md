@@ -3,16 +3,9 @@
 DRK-RAGNA
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +DRK-RAGNA-MD;MULTI+DEVICE+WHATSAPP+BOT" alt="Typing SVG" /></a>
-  </p>
 
-<p <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨;WHATSAPP+ULTRA+x+BOT;DEVELOPED+BY+𝙎-𝙏𝞢𝞜" alt="Typing SVG" />
-  </a>
-</p>
 
-![DRK_ST_BUG](https://i.imgur.com/ZTgzeeP.jpeg)
+![DRK_ST_BUG](https://i.postimg.cc/1XttP4Ff/c0bbf6f62005692f208876b66c7631c9-1.jpg)
 <p align="center">
 <a href="https://www.youtube.com/@DRK-TECH"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DRK-TECH" /><br>
 <a href="https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
